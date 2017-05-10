@@ -6,41 +6,24 @@
 
 FreeCodeCamp é uma comunidade de código aberto amigável onde você aprende a codificar e ajudar organizações sem fins lucrativos.
 
-Ajudamos nossos campistas a construir portfólios dignos de empregos de aplicativos reais usados ​​por pessoas reais, enquanto ajudam organizações sem fins lucrativos.
+Ajudamos nossos campistas a construir portfólios dignos de empregos de aplicativos reais usados por pessoas reais, enquanto ajudam organizações sem fins lucrativos.
 
 Você começa trabalhando através de nosso currículo de JavaScript baseado em navegador.
 
 Trabalhando através de nosso currículo, você pode ganhar quatro certificações:
 
-1. Certificação Front-End
-
+1. <b>Certificação Front-End</b>
 A primeira seção irá ensinar-lhe o básico de como trabalhar páginas web e também apresentá-lo a programação JavaScript.
+Habilidades que você vai praticar incluem HTML, CSS, JavaScript, jQuery e Bootstrap. Para obter essa certificação, você criará 10 projetos front-end e implementará muitos algoritmos JavaScript.
 
-Habilidades que você vai praticar incluem HTML, CSS, JavaScript, jQuery e Bootstrap.
+2. <b>Certificação de visualização de dados</b>
+A segunda seção baseia-se na primeira e apresenta-lhe temas mais avançados, como Sass, React e D3. Para obter essa certificação, você criará 5 React-apps e 5 aplicativos de visualização de dados usando D3.js.
 
-Para obter essa certificação, você criará 10 projetos front-end e implementará muitos algoritmos JavaScript.
+3. <b>Certificação Back End</b>
+A terceira seção apresenta o desenvolvimento de back-end usando Node.js, Express e MongoDB. Ele também ensina sobre o importante conceito de controle de origem usando o Git. Para obter essa certificação, você criará 5 APIs e 5 aplicativos de pilha completa. Aceitaremos soluções implementadas em qualquer linguagem de programação, desde que uma demonstração ao vivo e o código fonte estejam acessíveis ao público.
 
-2. Certificação de visualização de dados
-
-A segunda seção baseia-se na primeira e apresenta-lhe temas mais avançados, como Sass, React e D3.
-
-Para obter essa certificação, você criará 5 React-apps e 5 aplicativos de visualização de dados usando D3.js.
-
-3. Certificação Back End
-
-A terceira seção apresenta o desenvolvimento de back-end usando Node.js, Express e MongoDB. Ele também ensina sobre o importante conceito de controle de origem usando o Git.
-
-Para obter essa certificação, você criará 5 APIs e 5 aplicativos de pilha completa.
-
-Aceitaremos soluções implementadas em qualquer linguagem de programação, desde que uma demonstração ao vivo e o código fonte estejam acessíveis ao público.
-
-4. Certificação Full Stack
-
-A quarta seção é onde você terá experiência no mundo real trabalhando em projetos para organizações sem fins lucrativos. Nós vamos emparelhá-lo com outro campista, um gerente de projeto ágil, e um stakeholder de uma organização sem fins lucrativos. Juntos, você planeja, cria e mantém aplicativos que ajudam essa organização sem fins lucrativos a cumprir sua missão com mais eficiência.
-
-Para esta certificação, você trabalhará em dois projetos a partir do zero e, em seguida, manter / atualizar dois projetos existentes.
-
-Este código está em execução ao vivo em freeCodeCamp.com. Também temos salas de bate-papo Gitter, uma publicação Medium, um fórum interativo, uma base de conhecimento do wiki e até mesmo um canal do YouTube.
+4. <b>Certificação Full Stack</b>
+A quarta seção é onde você terá experiência no mundo real trabalhando em projetos para organizações sem fins lucrativos. Nós vamos emparelhá-lo com outro campista, um gerente de projeto ágil, e um stakeholder de uma organização sem fins lucrativos. Juntos, você planeja, cria e mantém aplicativos que ajudam essa organização sem fins lucrativos a cumprir sua missão com mais eficiência. Para esta certificação, você trabalhará em dois projetos a partir do zero e, em seguida, manter / atualizar dois projetos existentes. Este código está em execução ao vivo em freeCodeCamp.com. Também temos salas de bate-papo Gitter, uma publicação Medium, um fórum interativo, uma base de conhecimento do wiki e até mesmo um canal do YouTube.
 
 Junte-se à nossa comunidade aqui.
 
